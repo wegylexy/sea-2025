@@ -65,7 +65,7 @@
   - 💵 free for 1 day
 - **09:16** 🚊 Boarding 1️⃣ Line light rail to Lynnwood City Center
   - Adult Day Pass 💵 US$ 6.00 × 3
-- **09:49** 🚊 Alighting 1️⃣ Line light rail at Symphony *(or Pioneer Square a minute early)*
+- **09:49** 🚊 Alighting 1️⃣ Line light rail at Symphony
 - **10:00** 🎟️ Start queueing at [pier 54](https://maps.app.goo.gl/kWTU9gMgjRPhfjqM6) for Locks Cruise *(not pier 55 for Harbor Cruise)*
   - Locks CityPASS Upgrade with Return Bus
     - 2 adults 💵 US$ 81.45
@@ -78,3 +78,27 @@
 - **13:05** 🤳 Selfie with [The Seattle Greate Wheel](https://maps.app.goo.gl/hBitiHhfCUhtMiSN7) from its southeast
 - **13:10** 🍽️ Lunch near [Pike Place Market](https://maps.app.goo.gl/hBitiHhfCUhtMiSN7)
 - ……
+
+---
+- Seattle Aquarium
+- Monorail 💵 US$ 3.50 × 3
+- Space Needle (night)
+- Space Needle (day)
+- Chihuly Garden and Glass
+- Pacific Science Center
+- McDonald's
+---
+- Microsoft Visitor Center
+- Valve (selfie with front door, may not visit inside)
+- Bellevue Square
+- Boeing Future of Flight
+  - Boeing Everett Factory Tour 💵 US$ 46
+  - General Admission 💵 US$ 14
+  - Boeing Store 💵 free to browse
+  - Paper Plane Café 💵 free to enter
+  - Public area 💵 free
+---
+- Topgolf Renton
+- Westfield Southcenter
+- Outlet
+- Mount Rainer
