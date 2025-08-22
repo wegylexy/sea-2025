@@ -2,9 +2,11 @@
 
 ## **Day 0** (8/24)
 
-- **20:10**  [Online check-in](https://www.starlux-airlines.com/)
+- **20:10** 📱 [Online check-in](https://www.starlux-airlines.com/)
   - Air fare 💵 NT$ 29210 / round-trip ticket × 2
   - ESTA 💵 US$21 / 2 years × 2
+  - CityPASS with kkday coupon 💵 NT$ 7476 / 2 tickets
+    - average US$ 123.37 / ticket (as of 8/20 14:45 +8)
 
 ## **Day 1** (8/25)
 
@@ -61,17 +63,18 @@
 - **08:30** 🚗 Driving to Tukwila International Blvd
 - **09:05** 🅿️ Parking outside [light rail station](https://maps.app.goo.gl/B1cuph1wGehbUFL49)
   - 💵 free for 1 day
-- **09:16** 🚊 Boarding 1️⃣ Line light rail (to Lynnwood City Center)
+- **09:16** 🚊 Boarding 1️⃣ Line light rail to Lynnwood City Center
   - Adult Day Pass 💵 US$ 6.00 × 3
-- **09:49** 🚊 Alighting 1️⃣ Line light rail at Symphony
-- **10:00** 🎟️ Check-in at [pier 55](https://maps.app.goo.gl/asU2Ux6kK1HenhdM8)
-  - Adults Locks CityPASS Upgrade with Return Bus
-    - 💵 US$ 81.45 / 2 adults
-    - 💵 US$ 40.72 / adults
-- **10:30** 🛳️ Departure from Elliot Bay
-- **12:30** 🛳️ Arrival at Lake Union
-- **12:40** 🚏 Staying on return bus at Space Needle
-- **13:00** 🚏 Alighting return bus at pier 55
-- **13:05** 🤳 Selfie with [The Seattle Greate Wheel](https://maps.app.goo.gl/hBitiHhfCUhtMiSN7) from Southeast
+- **09:49** 🚊 Alighting 1️⃣ Line light rail at Symphony *(or Pioneer Square a minute early)*
+- **10:00** 🎟️ Start queueing at [pier 54](https://maps.app.goo.gl/kWTU9gMgjRPhfjqM6) for Locks Cruise *(not pier 55 for Harbor Cruise)*
+  - Locks CityPASS Upgrade with Return Bus
+    - 2 adults 💵 US$ 81.45
+    - 1 adult 💵 US$ 40.72
+- **10:25** 🙂‍↔️ Shaking head to late comers
+- **10:30** 🛳️ Departure from pier 54 on the Seattle Waterfront (Elliott Bay)
+- **12:30** 🛳️ Arrival at AGC Marina on South Lake Union
+- **12:40** 🚏 Staying on return bus at Space Needle stop
+- **13:00** 🚏 Alighting return bus at pier 54
+- **13:05** 🤳 Selfie with [The Seattle Greate Wheel](https://maps.app.goo.gl/hBitiHhfCUhtMiSN7) from its southeast
 - **13:10** 🍽️ Lunch near [Pike Place Market](https://maps.app.goo.gl/hBitiHhfCUhtMiSN7)
 - ……
