@@ -164,6 +164,8 @@
 - **Afternoon** 🛍️ Shopping at [Westfield Southcenter](https://maps.app.goo.gl/tGmfVpNiDGtwPE2G6)
   - 👙 [Victoria's Secret](https://maps.app.goo.gl/KfbcfNzmpTr1Xu8c8)
   - 👙 [PINK by Victoria's Secret](https://maps.app.goo.gl/9Gv1KTM3axNk1Cs46)
+- **19:30** ⚽ Watching [Seattle Reign FC vs. San Diego Wave FC](https://www.ticketmaster.com/-/event/0F00624DDBE633B5) at [Lumen Field](https://maps.app.goo.gl/WsttjCpkopao38Y17)
+  - Sec CHR112 Row V Seats 8, 9, 10 💵 US$ 39.50 × 3
 
 ## **Day 6** (8/30)
 
