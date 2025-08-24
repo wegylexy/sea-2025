@@ -21,11 +21,13 @@
 - **16:15** 🚗 Pick-up 2
 - **17:00** 🧳 Checked baggage drop-off at T2
 - **17:10** 🛃 Going through security, customs, and immigration
-- **19:30** ✈️ Ready for boarding
+- **19:40** ✈️ Boarding
+  - 📝 Pre-filling of [MPC](https://play.google.com/store/apps/details?id=gov.dhs.cbp.pspd.mpc) form
 - **20:10** 🛫 Departure from [TPE](https://maps.app.goo.gl/SS73Rs8NT5LNP6b36) Concourse D (usually late)
 ### ⌛ [Time Travel](https://www.starlux-airlines.com/en-US/flight-status/search-result?searchType=flight-number&date=2025-08-25&flightNo=32&depAirport=TPE&arrAirport=SEA) ⏳ ###
 - **16:35** 🛬 Arrival at [SEA](https://maps.app.goo.gl/uQ72YwnKU5JVo7fG6) South Satellite (usually early)
 - **17:05** 🧳 Baggage claim
+  - ✅ Submission of MPC form
 - **17:10** 🏧 Cash withdrawal (optional)
 - **17:15** 🚗 Pick-up
   - 12.0 miles via I-5 S
