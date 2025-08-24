@@ -216,6 +216,7 @@
 
 ## **Day 11** (9/4)
 - **04:55** 🛬 Arrival at [TPE](https://maps.app.goo.gl/SS73Rs8NT5LNP6b36) Concourse D
-- **05:25** 🚗 Pick-up
-- **Day** 🐈 Pets pick-up
+- **Morning** 🚗 Drop-off
+  - Car fare with 1 stop 💵 NT$ 2200
+- **Afternoon** 🐈 Pets pick-up
 ---
