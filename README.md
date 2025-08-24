@@ -1,8 +1,13 @@
 # SEA 2025 Itinerary
 
+## **Day -1** (8/23)
+
+- **20:10** 💺 Seat and meal selection
+
 ## **Day 0** (8/24)
 
-- **20:10** 📱 [Online check-in](https://www.starlux-airlines.com/)
+- **Afternoon** 🧳 Luggage packing
+- **20:10** ✈️ [Check-in](https://www.starlux-airlines.com/)
   - Air fare 💵 NT$ 29210 / round-trip ticket × 2
   - ESTA 💵 US$21 / 2 years × 2
   - CityPASS with kkday coupon 💵 NT$ 7476 / 2 tickets
@@ -30,6 +35,7 @@
   - Booking for parking
 - **Dusk** 🚿 Shower
 - **Night** 💤 Attempt to sleep
+  - 💵 US$ 30 / night × 2
 
 ## **Day 2** (8/26)
 
@@ -196,6 +202,7 @@
 ## **Day 9** (9/2)
 
 - **Day** ⛰️ Admiring Mount Rainer from [Kite Park](https://maps.app.goo.gl/6bPPqSuQ9AaR1BCB7)
+- **Afternoon** 🧳 Luggage packing
 - **22:00** 🚗 Drop-off
 
 ## **Day 10** (9/3)
