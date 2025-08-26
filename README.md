@@ -23,15 +23,13 @@
 - **17:10** 🛃 Going through security, customs, and immigration
 - **19:40** ✈️ Boarding
   - 📝 Pre-filling of [MPC](https://play.google.com/store/apps/details?id=gov.dhs.cbp.pspd.mpc) form
-- **20:10** 🛫 Departure from [TPE](https://maps.app.goo.gl/SS73Rs8NT5LNP6b36) Concourse D (usually late)
+- **20:10** 🛫 Departure from [TPE](https://maps.app.goo.gl/SS73Rs8NT5LNP6b36) Concourse D
 ### ⌛ [Time Travel](https://www.starlux-airlines.com/en-US/flight-status/search-result?searchType=flight-number&date=2025-08-25&flightNo=32&depAirport=TPE&arrAirport=SEA) ⏳ ###
-- **16:35** 🛬 Arrival at [SEA](https://maps.app.goo.gl/uQ72YwnKU5JVo7fG6) South Satellite (usually early)
-- **17:05** 🧳 Baggage claim
+- **16:20** 🛬 Arrival at [SEA](https://maps.app.goo.gl/uQ72YwnKU5JVo7fG6) South Satellite
+- **16:59** 🧳 Baggage claim
   - ✅ Submission of MPC form
-- **17:10** 🏧 Cash withdrawal (optional)
-- **17:15** 🚗 Pick-up
-  - 12.0 miles via I-5 S
-- **17:35** 🛒 Going to grocery
+- **17:40** 🚗 Pick-up
+  - 12.0 miles
 - **18:00** 😋 Dinner
 - **Sunset** 📌 Planning for next day
   - Booking for parking
@@ -42,18 +40,15 @@
 ## **Day 2** (8/26)
 
 - **Morning** 🥣 Breakfast
-- **10:30** 🚗 Driving to University of Washington
-  - 24.3 miles
-- **11:05** 🅿️ Parking at [John's Parking](https://www.parkwhiz.com/locations/58302)
-  - 2 hours 💵 US$ 8.48
-  - **3 hours 💵 US$ 9.54**
-  - 4 hours 💵 US$ 12.72
-- **11:15** 📷 Photo at University of Washington
+- **10:00** 🚗 Driving to University of Washington
+  - 25.2 miles
+- **10:40** 🅿️ Parking for free at [North Garage](https://maps.app.goo.gl/L1S4yfbUzwjqX1SN6)
+- **11:05** 📷 Photo at University of Washington
   - 🌸 [The Quad](https://maps.app.goo.gl/2JmdE2hXrojb9S3B8)
   - 🏫 [Red Square](https://maps.app.goo.gl/vKYZpPbBRsmQ1gPu9)
   - 📚 [Suzzallo and Allen Libraries](https://maps.app.goo.gl/1mnRLjRmG6zrJJdi6)
   - ⛲ [Drumheller Fountain](https://maps.app.goo.gl/gVD96VcSzdSg4jTL7)
-- **12:15** 😋 Lunch at [University Village](https://maps.app.goo.gl/pa31zXf44RZC4CsQ7)
+- **12:05** 😋 Lunch at [University Village](https://maps.app.goo.gl/pa31zXf44RZC4CsQ7)
 - **13:55** 🚗 Driving to Washington Park Arboretum
   - 1.9 miles
 - **14:10** 🅿️ Parking near [Graham Visitors Center](https://maps.app.goo.gl/1dFtZXdLvViyMNNE7)
@@ -70,6 +65,7 @@
 
 - **07:30** 😵‍💫 Morning call
 - **08:30** 🚗 Driving to Tukwila Int'l Blvd
+  - 10.9 miles
 - **09:05** 🅿️ Parking outside [light rail station](https://maps.app.goo.gl/B1cuph1wGehbUFL49)
   - 💵 free for 1 day
 - **09:16** 🚊 Boarding 1️⃣ Line light rail at Tukwila Int'l Blvd to Lynnwood City Center
@@ -120,6 +116,7 @@
 
 - **07:30** 🥱 Morning call
 - **08:30** 🚗 Driving to Tukwila Int'l Blvd
+  - 10.9 miles
 - **09:05** 🅿️ Parking outside [light rail station](https://maps.app.goo.gl/B1cuph1wGehbUFL49)
   - 💵 free for 1 day
 - **09:16** 🚊 Boarding 1️⃣ Line light rail at Tukwila Int'l Blvd to Lynnwood City Center
